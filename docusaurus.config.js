@@ -13,8 +13,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://kaindraa.github.io', // Your website URL
-  baseUrl: '/',
+  url: 'https://github.com', // Your website URL
+  baseUrl: '/242saurus/',
   projectName: '242saurus',
   organizationName: 'kaindraa',
   trailingSlash: false,
