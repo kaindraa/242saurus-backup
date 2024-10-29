@@ -13,8 +13,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://kaindraa.github.io/242saurus/',
-  // Set the /<baseUrl>/ pathname under which your site is served
+  url: 'https://kaindraa.github.io',  // Your main GitHub Pages URL
+  baseUrl: '/242saurus/',     // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
