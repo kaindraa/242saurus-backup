@@ -13,15 +13,11 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://kaindraa.github.io',  // Your main GitHub Pages URL
-  baseUrl: '/242saurus/',     // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://kaindraa.github.io', // Your website URL
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'kaindraa', // Usually your GitHub org/user name.
-  projectName: '242saurus', // Usually your repo name.
+  projectName: 'kaindraa.github.io',
+  organizationName: 'kaindraa',
+  trailingSlash: false,
   deploymentBranch : 'gh-pages',
 
 
