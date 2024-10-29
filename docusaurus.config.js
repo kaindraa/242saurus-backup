@@ -15,7 +15,7 @@ const config = {
   // Set the production url of your site here
   url: 'https://kaindraa.github.io', // Your website URL
   baseUrl: '/',
-  projectName: 'kaindraa.github.io',
+  projectName: '242saurus',
   organizationName: 'kaindraa',
   trailingSlash: false,
   deploymentBranch : 'gh-pages',
